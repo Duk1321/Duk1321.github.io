@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: 
 ---
 
 Hi I'm Duk, my real name is Duong Giap Duc but you can call me duck or duk is way easier to spell it. Currently I'm a new grad IT Student from Water Resource University Viet Nam. 
