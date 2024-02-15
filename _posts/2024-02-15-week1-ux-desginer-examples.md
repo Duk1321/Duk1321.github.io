@@ -34,3 +34,18 @@ Entry-level UX designer
 + Prototyping - early model of a product
 + Creating information architecture
 + Communicate Effectily
+
+User-centered design is a framework mean you should design mainly for your user and user-only, design a app or website to solve the problem user wanted.
+
+Assitive technology
++ Color modification: create something like dark mode switching.
++ Voice control: Switch device to replace mouse and keyboard or speech to text.
++ Screen reader: Read on screen text or button.
++ Alternative text: context for some image if you cant see it.
+
+User-centered design process:
++ Understand
++ Specify
++ Design
++ Evaluate
+
