@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "My post"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Github, icon: github, url: "https://github.com/Duk1321"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
