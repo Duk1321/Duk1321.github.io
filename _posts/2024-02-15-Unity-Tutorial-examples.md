@@ -5,4 +5,7 @@ layout: post
 categories: media
 ---
 
-Start more in-dept and learning curve more about Unity Engine
+Source of tutorial: catlikecoding.com
+
+#Start again the basic with Game Objects and Scripts / note and progress
+
