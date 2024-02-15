@@ -1,5 +1,5 @@
 ---
-title:  "First Week of Data analystics"
+title:  "First Week Data analystics"
 mathjax: true
 layout: post
 categories: media
