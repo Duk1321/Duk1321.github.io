@@ -60,6 +60,8 @@ Personally Identifiable Information (PII): Any information used to infer an indi
 
 Sensitive Personally Identifiable Information (SPII): A specific type of PII that falls under stricter handling guidelines.
 
+#Moduel 2
+
 Social Engineering: A manipulation technique that exploits human error to gain private information, access, or valuables.
 
 Phising: The use of digital communication to trick people into revealing sensitive data or deploying malicious software.
@@ -90,5 +92,14 @@ Social engineering principles: because ppl are generally trusting and conditione
 + Trust: like the above.
 + Urgency: Emergency fake.
 
+8 domain define by CISSP - Certified Information Systems Security Professional is a globally recognized and highly sought-after information security certification, awarded by the International Information Systems Security Certification Consortium 
 
++ Security and risk management: define security goals and objectives, risk mitigation, compliance, business continuity, and the law.
++ Asset security: secures digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data.
++ Security architecture and engineering: optimize data security by ensuring effective tools, systems, and processes are in place.
++ Communication and network security: Manage and secure physical networks and wireless communications.
++ Identity and access management: keep data secure, by ensuring users follow established policies to control and manage physical assets, like office space, and logical assets, such as networks and applications.
++ Security assessment and testing: conducting security control testing, collecting and analyzing data, and conducting security auddits to monitor for risks, threats, and vulnerabilities.
++ Security operations: conducting investigations and implementing preventative meansures.
++ Software development security: uses secure coding practices, which are set of recommended guidelines that are used to create secure applications and services.
 
