@@ -38,3 +38,18 @@ Common titles
 + Security operations center (SOC) analyst.
 + Information security analyst.
 
+Security analyst responsibility
++ Protecting computer and network systems.
++ Install prevention software.
++ Conducting periodic security audits.
+
+Transferable skills: skill from other areas that can apply to different careers.
++ Communication.
++ Collaboration.
++ Analysis.
++ Problem solving.
+
+Technical skills: skills that require knowledge of specific tools, procedures, and policies.
++ Progamming languages.
++ Security information and event management (SIEM) tools.
++ Computer forensics.
