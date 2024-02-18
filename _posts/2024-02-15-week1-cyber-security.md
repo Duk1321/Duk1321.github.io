@@ -90,3 +90,5 @@ Social engineering principles: because ppl are generally trusting and conditione
 + Trust: like the above.
 + Urgency: Emergency fake.
 
+
+
