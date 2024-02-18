@@ -5,7 +5,9 @@ layout: post
 categories: media
 ---
 
-#Week 1 asume:
+#Week 1 asume
+
+#Module 1
 
 Define security.
 
@@ -53,3 +55,9 @@ Technical skills: skills that require knowledge of specific tools, procedures, a
 + Progamming languages.
 + Security information and event management (SIEM) tools.
 + Computer forensics.
+
+Personally Identifiable Information (PII): Any information used to infer an individual's identity.
+
+Sensitive Personally Identifiable Information (SPII): A specific type of PII that falls under stricter handling guidelines.
+
+
