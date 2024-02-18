@@ -5,4 +5,11 @@ layout: post
 categories: media
 ---
 
-I will post my update here
+#Week 1 asume:
+Define security
+Job responsibilities
+Core skills of a security analyst
+Value of security
+Eight security domains
+Security frameworks and controls
+Common tools and programming languages
