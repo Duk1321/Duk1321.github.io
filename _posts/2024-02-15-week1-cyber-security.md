@@ -60,4 +60,33 @@ Personally Identifiable Information (PII): Any information used to infer an indi
 
 Sensitive Personally Identifiable Information (SPII): A specific type of PII that falls under stricter handling guidelines.
 
+Social Engineering: A manipulation technique that exploits human error to gain private information, access, or valuables.
+
+Phising: The use of digital communication to trick people into revealing sensitive data or deploying malicious software.
++ Business Email Compromise (BEC): send email from a known source to seem legitimate.
++ Spear phising: A malicious email attack that targets a specific user or group of users.
++ Whaling: a form of spear phising. target company excutives to gain access to sensitive data.
++ Vishing: the exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source.
++ Smishing: used text messages to trick users, in order to obtain sensitive information or to impersonate a known source.
+
+Malware is software designed to harm device or networks. There are many type of malware. The primary purpose of malware is to obtain money, or in some case, an intelligence advantage that can be used against a person, an organization, or a territory.
++ Virus: Malicious code written to interfere with computer operations and cause to data and software. from download file, etc.
++ Worms: malware that can duplicate and spread itselft.
++ Ransomware: encrypt an organization's data and demand payment to restore access.
++ Spyware: gather and self information without consent. collect personal data,...
+
+Social Engineering is a manipulation technique that exploits human error to gain private information, access, or valuables. Human error is usually a result of trusting someone without question. It's the mision of a threat actor, acting as a social engineer, to create an environment of false trust and lies to exploit as many ppl as possible.
++ Social media phising: target from social media site.
++ Watering hole attack: A threat actor attack a website frequently visited by a specifict group of users.
++ USB baiting: threat actor strategically leaves a malware USB stick for an employee to find and install, to unknowingly infect a network.
++ Physical social engineering: a threat actor impersonate an employee, customer, or vendor to obtains unauthorized access to physical location.
+
+Social engineering principles: because ppl are generally trusting and conditioned to respect authority so the attack like this increasing a lot.
++ authority: act as an higher person to demand something
++ Intimidation: doxxing them to do something by their personal information.
++ Consensus/Social proof: gaslight
++ Scarcity: fake an production.
++ Familiarity: exploite emotion.
++ Trust: like the above.
++ Urgency: Emergency fake.
 
