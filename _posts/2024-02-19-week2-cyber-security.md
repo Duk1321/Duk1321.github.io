@@ -36,3 +36,8 @@ NIST Cybersecurity Framework (CSF) a voluntary framwork that consists of standar
 
 Ethics of Security
 
+Security ethics: Guidelines for making appropriate decisions as a security professional.
+
+Ethical principles in security
++ Confidentiality
++ Law
