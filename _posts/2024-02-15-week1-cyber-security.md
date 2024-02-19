@@ -7,7 +7,7 @@ categories: media
 
 #Week 1 asume
 
-#Module 1
+## Module 1
 
 Define security.
 
@@ -60,7 +60,7 @@ Personally Identifiable Information (PII): Any information used to infer an indi
 
 Sensitive Personally Identifiable Information (SPII): A specific type of PII that falls under stricter handling guidelines.
 
-#Moduel 2
+## Moduel 2
 
 Social Engineering: A manipulation technique that exploits human error to gain private information, access, or valuables.
 
