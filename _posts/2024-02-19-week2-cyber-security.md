@@ -66,3 +66,23 @@ Ethical principles in security
 + Network attacks
 
 + Security hardening
+
+
+
+# Course 3 - module 1
++ Structure of a network
+
++ Standard networking tools
+
++ Cloud networks
+
++ TCP/IP model
+
+Network is a group of connected device.
+
+Local Area Network (LAN) - a network that spans a small area like
+an office building, a school, or a home.
+
+Wide Area Network (WAN) - a network that spans a large geographic area like
+a city, state, or country.
+
