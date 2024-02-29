@@ -56,3 +56,13 @@ Security ethics: Guidelines for making appropriate decisions as a security profe
 Ethical principles in security
 + Confidentiality
 + Law
+
+
+# Course 3
++ Structure of a network
+  
++ Network operations
+
++ Network attacks
+
++ Security hardening
