@@ -86,3 +86,36 @@ an office building, a school, or a home.
 Wide Area Network (WAN) - a network that spans a large geographic area like
 a city, state, or country.
 
+Hub - a network device that broadcasts information to every device on the network
+
+Switch - a device that makes connections between specific devices on a network by sending and
+
+receiving data between them.
+
+Router - a netowrk device that connects multiple network together.
+
+Modem - a device that connects your router to the internet and brings internet access to the LAN
+
+Virtualization tools - pieces of software that perform network operations
+
+Cloud computing - the practice of using remote servers, applications, and network services that are hosted
+
+on the internet instead of on local physical devices
+
+Bandwidth - the amount of data a device receices every second
+
+Speed - the rate at which data packets are received or downloaded
+
+Packet sniffing - the practice of capturing and inspecting data packets across a network
+
+Transmission Control Protocol (TCP) - an internet communication protocol that allows
+
+two devices to form a connection and stream data
+
+Layer of TCP/IP model
++ Network access layer
++ Internet layer
++ Transport layer
++ Application Layer
+
+
